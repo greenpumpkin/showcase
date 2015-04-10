@@ -1,0 +1,11 @@
+<div class="cont">
+  <div class = "education">
+    <h4>Education</h4><br/>
+    <span class="information">&nbsp;Qualifications</span><span> : <br/>&nbsp;&nbsp;{{ data.education.qualifications }} ({{ data.education.highschool }})</span><br/><br/>
+    <span class="information">&nbsp;Cursus : </span><p ng-repeat = "c in data.education.course">&nbsp;&nbsp;{{ c }} ; </p>
+    <span class="information">&nbsp;School</span><span> : {{ data.education.school }}</span><br/>
+    <span class="information">&nbsp;University</span><span> : {{ data.education.university }}</span><br/><br/>
+    <span class="information">&nbsp;Languages : </span><span ng-repeat = "language in data.knowledge.languages">{{ language }} ; </span><br/>
+    <span class="information">&nbsp;Computer Skills : </span><span ng-repeat = "computerSkill in data.knowledge.computerSkills">{{ computerSkill }} ; </span>
+  </div>
+</div>

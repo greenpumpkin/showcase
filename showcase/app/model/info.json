@@ -1,0 +1,52 @@
+{
+  "identity": {
+    "firstname": "Cindy",
+    "lastname": "Najjar",
+    "birth": "1994-04-28",
+    "nationality": "French",
+    "city": "Nice",
+    "zipCode": "06100",
+    "country": "France",
+    "email": "najjar@polytech.unice.fr"
+  },
+  "education": {
+    "qualifications": "2012 : Baccalauréat Scientifique with distinction",
+    "highschool": "Lycée du Parc Impérial in Nice",
+    "course": [
+      "2014 - 2017 : Engineering Cycle in Computer Science",
+      "2012 - 2014 : Preparatory class : two-year undergraduate intensive course in engineering"
+
+    ],
+    "school": "Polytech' Nice-Sophia",
+    "university": "Nice - Sophia Antipolis (France)"
+  },
+  "knowledge": {
+    "languages": [
+      "French",
+      "English",
+      "Spanish"
+    ],
+    "computerSkills": [
+      "Java",
+      "Python",
+      "C",
+      "HTML",
+      "CSS"
+    ]
+  },
+  "professionalExperience": {
+    "internships": ["2009 : Observation internship in the web design agency 'Zen Communication'. First responsibilities and adaptation to a new environment,"],
+    "jobs": [
+      "2012 : Experience in catering",
+      "2013-2015 : Home help",
+      "Voluntary work : computer courses for the elderly"
+    ],
+    "places": ["Nice (France)"]
+  },
+  "interests" : {
+    "sports" : ["Modern-Jazz Dance","Swimming","Ski","Running"],
+    "culture" : ["Painting (portraits)","Photography (Nikon D40x)","Rock Music"],
+    "travels" : ["Great Britain","Italy","Spain","Greece","Croatia","Bosnia and Herzegovina","Montenegro","Slovenia"]
+  }
+
+}

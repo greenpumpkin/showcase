@@ -1,0 +1,40 @@
+{
+  "projects": {
+    "project1" : {
+      "date" : "2013 (during the two-year undergraduate intensive course in engineering)",
+      "name" : "Siam game implementation",
+      "languages" : "Java"
+    },
+
+    "project2" : {
+      "date" : "2014",
+      "name" : "2048 game implementation (during the two-year undergraduate intensive course in engineering)",
+      "languages" : "Java"
+    },
+
+    "project3" : {
+      "date" : "2014",
+      "name" : "Survey Generator Website such as Google Forms (during the two-year undergraduate intensive course in engineering)",
+      "languages" : "HTML, CSS, PHP"
+    },
+
+    "project4" : {
+      "date" : "2014",
+      "name" : "'World of Zuul' game implementation (mid-term project)",
+      "languages" : "Java"
+    },
+
+    "project5" : {
+      "date" : "2015",
+      "name" : "'The Marauder's Map' game implementation, in the context of 'World of Zuul' (final project)",
+      "languages" : "Java"
+    },
+
+    "project6" : {
+      "date" : "2015",
+      "name" : "'Speed Memory' game implementation (as part of the DeViNT project, for young people with visual impairment)",
+      "languages" : "Android"
+    }
+
+  }
+}
